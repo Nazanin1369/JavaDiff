@@ -16,5 +16,5 @@ This program represents "diff" functionality.
 #### How to run: 
   * change the path of the files to your files path in Diff.java
   
-      javac *.java
-      java  MainClass.java
+  -- javac *.java
+  -- java  MainClass.java
